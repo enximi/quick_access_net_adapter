@@ -13,3 +13,5 @@ Look no further!
 Just run this tool, and you're there ↓.
 
 ![Network Adapter Settings interface](assets/doc/network_adapter_settings_interface.png)
+
+Or, just open your terminal and type in `control ncpa.cpl`. It works just the same!
